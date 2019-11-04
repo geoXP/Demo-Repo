@@ -1,0 +1,7 @@
+E:\BITM Dot Net\SelfPractice\OOPExample\OOPExample\bin\Debug\OOPExample.exe.config
+E:\BITM Dot Net\SelfPractice\OOPExample\OOPExample\bin\Debug\OOPExample.exe
+E:\BITM Dot Net\SelfPractice\OOPExample\OOPExample\bin\Debug\OOPExample.pdb
+E:\BITM Dot Net\SelfPractice\OOPExample\OOPExample\obj\Debug\OOPExample.csprojAssemblyReference.cache
+E:\BITM Dot Net\SelfPractice\OOPExample\OOPExample\obj\Debug\OOPExample.csproj.CoreCompileInputs.cache
+E:\BITM Dot Net\SelfPractice\OOPExample\OOPExample\obj\Debug\OOPExample.exe
+E:\BITM Dot Net\SelfPractice\OOPExample\OOPExample\obj\Debug\OOPExample.pdb
