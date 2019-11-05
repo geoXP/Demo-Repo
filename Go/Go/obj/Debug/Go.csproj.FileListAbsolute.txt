@@ -1,0 +1,7 @@
+E:\BITM-Git\Demo\Go\Go\bin\Debug\Go.exe.config
+E:\BITM-Git\Demo\Go\Go\bin\Debug\Go.exe
+E:\BITM-Git\Demo\Go\Go\bin\Debug\Go.pdb
+E:\BITM-Git\Demo\Go\Go\obj\Debug\Go.csprojAssemblyReference.cache
+E:\BITM-Git\Demo\Go\Go\obj\Debug\Go.csproj.CoreCompileInputs.cache
+E:\BITM-Git\Demo\Go\Go\obj\Debug\Go.exe
+E:\BITM-Git\Demo\Go\Go\obj\Debug\Go.pdb
